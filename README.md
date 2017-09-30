@@ -1,6 +1,6 @@
 # 最全的vue-cli项目下的配置简析
 
-tips: 本文主要介绍了利用原生Javascript实现了异步加载，及跨域请求JSONP的实现方式.以下方法也在日常生产中使用，由于博客服务有时候波动访问不了，建议先收藏到Github,仓库地址欢迎给个`★`(star)：
+tips: 本文主要梳理了vue-cli脚手架快速搭建项目下的配置，基本概览了所有文件的关键配置代码，欢迎给仓库地址给个`★`(star)：
 
 <a style="color:#16bc5a" href="https://github.com/WeideMo/vuecli-webpack-configs">『https://github.com/WeideMo/vuecli-webpack-configs』</a>
 
