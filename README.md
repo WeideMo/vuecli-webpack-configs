@@ -1,15 +1,4 @@
-title: Vuejs渡劫系列二：最全的vue-cli项目下的配置简析
-date: 2017-09-24 17:12:20  
-categories: 前端技术
-tags: ['Vue','Javascript','webpack']
-keywords: 'Vue,Vuejs,webpack'
----
-
-![简析vue-cli快速搭建项目下的配置](http://7ktvc3.com1.z0.glb.clouddn.com/vue_webpack_cover.png)
-
-Vuejs渡劫系列的第二篇文章，建立在有扎实的Vuejs和webpack基础知识前提下，通过vue-cli脚手架快速搭建项目，该文章会一一梳理项目下的文件配置和用途。
-
-<!-- more -->
+最全的vue-cli项目下的配置简析
 
 tips: 本文主要介绍了利用原生Javascript实现了异步加载，及跨域请求JSONP的实现方式.以下方法也在日常生产中使用，由于博客服务有时候波动访问不了，建议先收藏到Github,仓库地址欢迎给个`★`(star)：
 
